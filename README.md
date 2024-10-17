@@ -100,7 +100,7 @@ To run the project:
 
 3. **Running the Code**:
    ```bash
-   python diabetes_model.py
+   jupyter notebook diabetes_model.ipynd
    ```
 
 4. **Results**:
